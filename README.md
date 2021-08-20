@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Iakovos Mastrogiannopoulos and I am currently on my last year of studying in the University.
+
+### 🔭 I’m currently working on my thesis
+
+### 🌱 I’m currently learning Kubernetes
+
+I am a Cloud enthousiast, hoping one day to become a Cloud Engineer.
+
+### 👯 I'm open to collaborate on projects
+
 <!--
 **IakMastro/IakMastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
