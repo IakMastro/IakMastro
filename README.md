@@ -1,12 +1,22 @@
+[![I use Arch btw](https://img.shields.io/badge/I%20use-Arch%20btw-blue?style=flat-square&logo=arch-linux&logoColor=blue)](https://github.com/IlmastroStefanuzzo/ilmastrostefanuzzo/blob/main/disclaimer.md#i-use-arch-btw)
+
 ### Hi there 👋
 
 My name is Iakovos Mastrogiannopoulos and I am currently on my last year of studying in the University.
 
-### 🔭 I’m currently working on my thesis
-
-### 🌱 I’m currently learning Kubernetes
-
 I am a Cloud enthousiast, hoping one day to become a Cloud Engineer.
+
+### 🌱 I am looking for a full stack web developer job
+
+Tools:
+
+* ReactJS
+* VueJS
+* AngularJS
+* ExpressJS
+* Flask
+* Gin
+* Spring
 
 ### 👯 I'm open to collaborate on projects
 
