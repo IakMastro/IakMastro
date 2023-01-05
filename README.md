@@ -1,15 +1,5 @@
 # Hello There 👋
 
-<style>
-ul {
-  direction: flex;
-}
-
-ul > li {
-  margin-top: 1rem;
-}
-</style>
-
 <a href="https://www.linkedin.com/in/iakovos-mastrogiannopoulos-233065205/">
   <img align="left" alt="Iakovos's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -28,7 +18,7 @@ ul > li {
 
 ## Languages and Tools
 
-<ul class="languages">
+<ul style="direction: flex">
   <li>
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> Python
     <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></code> Numpy
