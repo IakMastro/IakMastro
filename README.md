@@ -12,7 +12,7 @@
 ## About me
 
 - 👨🏽‍💻 I’m an Informatics and Computer Engineering graduate.
-- 🌱 I’m currently between jobs and I am developing a CRM module.
+- 🌱 I’m currently working at Future Intelligence as a Software Engineer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [iakmastro@outlook.com.gr](mailto:iakmastro@outlook.com.gr).
 
